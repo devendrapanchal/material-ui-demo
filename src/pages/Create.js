@@ -122,20 +122,11 @@ export default function Create() {
               <MenuItem value={30}>Thirty</MenuItem>
             </Select>
           </FormControl>
-          {/* <Button type="submit" variant='outlined' color='secondary'>submit</Button> */}
           <Button
               endIcon={<ArrowForward/>}
               type="submit" color='secondary'
               variant='contained'>Submit</Button>
       </form>
-      
-      {/* <Button type="submit" color="primary" variant="outlined">submit</Button>
-      <ButtonGroup color="secondary" variant ="contained" >
-        <Button>one</Button>
-        <Button>Two</Button>
-        <Button>Three</Button>
-      </ButtonGroup> */}
-      
        <br/>
     </Container>
   )
