@@ -128,15 +128,7 @@ export default function Create() {
               type="submit" color='secondary'
               variant='contained'>Submit</Button>
       </form>
-      
-      {/* <Button type="submit" color="primary" variant="outlined">submit</Button>
-      <ButtonGroup color="secondary" variant ="contained" >
-        <Button>one</Button>
-        <Button>Two</Button>
-        <Button>Three</Button>
-      </ButtonGroup> */}
-      
-       <br/>
+      <br/>
     </Container>
   )
 }
